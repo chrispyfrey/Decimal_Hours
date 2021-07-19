@@ -4,7 +4,7 @@ A simple, but useful open-source Android application for converting a period of 
 
 ### Input
 
-Start time and end time of period in 24h format
+Start and end time of period in 24h format
 
 ### Output
 
