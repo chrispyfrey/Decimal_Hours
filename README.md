@@ -1,4 +1,4 @@
-# Decimal_Hours
+# Decimal Hours Android Application
 
 A simple, but useful open-source Android application for converting a period of time to a decimal hours representation.
 
