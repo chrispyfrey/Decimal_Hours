@@ -9,3 +9,7 @@ Start and end time of period in 24h format
 ### Output
 
 The number of hours in the period converted to base ten to two decimal places. Decimal places are truncated, not rounded.
+
+### Screenshot
+
+<img src="https://i.imgur.com/W4JyBOh.png">
